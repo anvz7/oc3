@@ -1,0 +1,12 @@
+/.svn
+/.idea
+/.vscode
+/.htaccess
+*.db
+*.cache
+*.log
+storage
+logs
+cache
+upload
+
